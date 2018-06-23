@@ -1,0 +1,68 @@
+﻿<%@ Master Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Menu.master.cs" Inherits="Inscripcion.Menu" %>
+<asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <link href="Content/estilopes.css" rel="stylesheet" />
+    <link href="Content/font-awesome.css" rel="stylesheet" />
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script src="Content/main.js"></script>
+    <link href="http://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet" />
+    <style type="text/css">
+        input[type="radio"],
+        input[type="checkbox"] {
+            display: none;
+        }
+
+        label:before {
+            font-family: 'FontAwesome';
+            width: 1.25em;
+            display: inline-block;
+        }
+
+        input[type="radio"] + label:before {
+            content: "\f10c"; /* circle-blank */
+        }
+
+        input[type="radio"]:checked + label:before {
+            content: "\f111"; /* circle */
+        }
+
+        input[type="checkbox"] + label:before {
+            content: "\f096"; /* check-empty */
+        }
+
+        input[type="checkbox"]:checked + label:before {
+            content: "\f046"; /* check */
+        }
+        .auto-style5 {
+            width: 800px;
+            max-width: 90%;
+            margin: 30px auto 21px auto;
+        }
+    </style>
+
+    <br />
+      <ul class="nav nav-tabs">
+                <li class="nav-item">
+                    <a class="nav-link active"  runat="server" id="DP2" href="../DatosPersonales1.aspx" >Datos Personales</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" runat="server" id="DG" href="../DatosGenerales.aspx">Datos Generales</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" runat="server" id="EP" href="../EscuelaProcedencia.aspx">Escuela de Procedencia</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" runat="server" id="IF" href="../InformacionFamiliar.aspx">Información Familiar</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link active" runat="server" id="ES" href="../EstudioSocioE.aspx">Estudio Socioeconómico</a>
+                </li>
+          
+          
+            
+
+            </ul>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">   </asp:ContentPlaceHolder>
+</asp:Content>

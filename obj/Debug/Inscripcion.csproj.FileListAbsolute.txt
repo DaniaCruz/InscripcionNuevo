@@ -1,0 +1,186 @@
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\ApplicationInsights.config
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\csc.exe
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\vbc.exe
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Inscripcion.dll.config
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Inscripcion.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Inscripcion.pdb
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Antlr3.Runtime.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\EntityFramework.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\EntityFramework.SqlServer.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.Web.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Newtonsoft.Json.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Owin.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\System.Web.Optimization.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\System.Web.Providers.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\WebGrease.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.Web.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\System.Web.Optimization.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Antlr3.Runtime.pdb
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Newtonsoft.Json.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\EntityFramework.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\EntityFramework.SqlServer.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\System.Web.Providers.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\EntityFramework.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\obj\Debug\Inscripcion.csprojResolveAssemblyReference.cache
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\obj\Debug\Inscripcion.dll
+C:\Users\Yaya Cx\Documents\Visual Studio 2015\Projects\Inscripcion\Inscripcion\obj\Debug\Inscripcion.pdb
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\obj\Debug\Inscripcion.csprojResolveAssemblyReference.cache
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\ApplicationInsights.config
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\csc.exe
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\vbc.exe
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\VBCSCompiler.exe
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Inscripcion.dll.config
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Inscripcion.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Inscripcion.pdb
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Antlr3.Runtime.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\EntityFramework.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\EntityFramework.SqlServer.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.Web.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Newtonsoft.Json.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Owin.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\System.Web.Optimization.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\System.Web.Providers.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\WebGrease.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.Web.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\System.Web.Optimization.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Antlr3.Runtime.pdb
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Newtonsoft.Json.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\EntityFramework.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\EntityFramework.SqlServer.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\System.Web.Providers.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.AspNet.FriendlyUrls.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\EntityFramework.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\obj\Debug\Inscripcion.dll
+C:\Users\Dania Cruz\Documents\Universidad\SERVICIOS ESCOLARES\INSCRIPCION\Inscripcion\Inscripcion\Inscripcion\obj\Debug\Inscripcion.pdb
